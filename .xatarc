@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://y-71-s-workspace-hdmqor.us-east-1.xata.sh/db/basel",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
